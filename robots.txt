@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Sitemap: https://jayjay5032.github.io/aoe4-team-meta/sitemap.xml
